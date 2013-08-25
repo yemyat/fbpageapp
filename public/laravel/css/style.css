@@ -1,0 +1,5 @@
+@charset 'UTF-8';
+.character-wrapper,
+.scene-background-wrapper {
+  display: inline-block;
+}
